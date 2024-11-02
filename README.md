@@ -8,5 +8,4 @@ Please note that below is the official list of information about ValidatorVN:
   - Github: http://github.com/ValidatorVN
   - X: http://x.com/ValidatorVN
   - Passport: http://passport.aura.network/p/validatorvn
-  - Moderator of @bool_official @autonity_
-  - Partner: @PactusChain
+  - Moderator of @0g_labs @autonity_
